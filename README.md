@@ -99,6 +99,4 @@ The frontend will run on `http://localhost:5173`
 ### Frontend
 - React, Vite, React Router, Recharts
 
-## License
 
-Educational and research purposes.
