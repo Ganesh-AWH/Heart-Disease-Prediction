@@ -1,0 +1,44 @@
+{
+    "kmeans": {
+        "silhouette_score": 0.16998023276130994,
+        "davies_bouldin_score": 2.192997921182086,
+        "calinski_harabasz_score": 184.90398820686391,
+        "n_clusters": 2,
+        "n_noise_points": 0
+    },
+    "dbscan": {
+        "silhouette_score": 0.9675175049484963,
+        "davies_bouldin_score": 0.0747487690890905,
+        "calinski_harabasz_score": 4047.876152970476,
+        "n_clusters": 3,
+        "n_noise_points": 980
+    },
+    "hierarchical": {
+        "silhouette_score": 0.15406559452122412,
+        "davies_bouldin_score": 2.405735380740863,
+        "calinski_harabasz_score": 148.56884321139682,
+        "n_clusters": 2,
+        "n_noise_points": 0
+    },
+    "fuzzy_cmeans": {
+        "silhouette_score": 0.15591653082520385,
+        "davies_bouldin_score": 2.294880688408232,
+        "calinski_harabasz_score": 179.27924146604502,
+        "n_clusters": 2,
+        "n_noise_points": 0
+    },
+    "gmm": {
+        "silhouette_score": 0.11206936727660581,
+        "davies_bouldin_score": 2.746036234767199,
+        "calinski_harabasz_score": 125.75445913668923,
+        "n_clusters": 2,
+        "n_noise_points": 0
+    },
+    "autoencoder": {
+        "silhouette_score": 0.1554815569150615,
+        "davies_bouldin_score": 2.367025576323249,
+        "calinski_harabasz_score": 164.48618244858548,
+        "n_clusters": 2,
+        "n_noise_points": 0
+    }
+}
